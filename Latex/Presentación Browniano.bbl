@@ -1,0 +1,145 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Einstein}{article}{}
+      \name{author}{1}{}{%
+        {{hash=29a34a00e610eaed35baff40f473278f}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{29a34a00e610eaed35baff40f473278f}
+      \strng{fullhash}{29a34a00e610eaed35baff40f473278f}
+      \strng{bibnamehash}{29a34a00e610eaed35baff40f473278f}
+      \strng{authorbibnamehash}{29a34a00e610eaed35baff40f473278f}
+      \strng{authornamehash}{29a34a00e610eaed35baff40f473278f}
+      \strng{authorfullhash}{29a34a00e610eaed35baff40f473278f}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annalen der Physik}
+      \field{number}{8}
+      \field{title}{Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen}
+      \field{volume}{322}
+      \field{year}{1905}
+      \field{pages}{549\bibrangedash 560}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1002/andp.19053220806
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/andp.19053220806
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.19053220806
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.19053220806
+      \endverb
+    \endentry
+    \entry{Mazo_2014}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b6c35ef00446b3b0517324929b0f8a93}{%
+           family={Mazo},
+           familyi={M\bibinitperiod},
+           given={Robert\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Clarendonpress}%
+      }
+      \strng{namehash}{b6c35ef00446b3b0517324929b0f8a93}
+      \strng{fullhash}{b6c35ef00446b3b0517324929b0f8a93}
+      \strng{bibnamehash}{b6c35ef00446b3b0517324929b0f8a93}
+      \strng{authorbibnamehash}{b6c35ef00446b3b0517324929b0f8a93}
+      \strng{authornamehash}{b6c35ef00446b3b0517324929b0f8a93}
+      \strng{authorfullhash}{b6c35ef00446b3b0517324929b0f8a93}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Brownian motion: Fluctuations, dynamics, and applications}
+      \field{year}{2014}
+    \endentry
+    \entry{Reif_2010}{book}{}
+      \name{author}{1}{}{%
+        {{hash=65e2667c0c254dfdcd6fe3e8432ff8ce}{%
+           family={Reif},
+           familyi={R\bibinitperiod},
+           given={Frederick},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Levant}%
+      }
+      \strng{namehash}{65e2667c0c254dfdcd6fe3e8432ff8ce}
+      \strng{fullhash}{65e2667c0c254dfdcd6fe3e8432ff8ce}
+      \strng{bibnamehash}{65e2667c0c254dfdcd6fe3e8432ff8ce}
+      \strng{authorbibnamehash}{65e2667c0c254dfdcd6fe3e8432ff8ce}
+      \strng{authornamehash}{65e2667c0c254dfdcd6fe3e8432ff8ce}
+      \strng{authorfullhash}{65e2667c0c254dfdcd6fe3e8432ff8ce}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fundamentals of statistical and thermal physics}
+      \field{year}{2010}
+    \endentry
+    \entry{Schilling_Partzsch_Böttcher_2021}{book}{}
+      \name{author}{3}{}{%
+        {{hash=7a00c127965d37c19f5761f42a49433d}{%
+           family={Schilling},
+           familyi={S\bibinitperiod},
+           given={René\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=b2bc0f56a69972789f021b961c313332}{%
+           family={Partzsch},
+           familyi={P\bibinitperiod},
+           given={Lothar},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a982a75a8999f200436914e24761d0e8}{%
+           family={Böttcher},
+           familyi={B\bibinitperiod},
+           given={Björn},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Walter de Gruyter}%
+      }
+      \strng{namehash}{3d70ff29cc5910562ba198b0e8d53744}
+      \strng{fullhash}{3d70ff29cc5910562ba198b0e8d53744}
+      \strng{bibnamehash}{3d70ff29cc5910562ba198b0e8d53744}
+      \strng{authorbibnamehash}{3d70ff29cc5910562ba198b0e8d53744}
+      \strng{authornamehash}{3d70ff29cc5910562ba198b0e8d53744}
+      \strng{authorfullhash}{3d70ff29cc5910562ba198b0e8d53744}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Brownian motion: An introduction to stochastic processes}
+      \field{year}{2021}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
